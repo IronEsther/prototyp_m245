@@ -1,3 +1,8 @@
+## Administratives
+Version 0.0.3
+Autorin: Andrea Niklaus
+Datum: 19.03.2024
+
 ## Inhaltsverzeichnis
 
 1. [Problemstellung](#problemstellung)
